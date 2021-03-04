@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-TreeViewDB",
+      "appliesTo": "TreeViewDB/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-LAB2",
+      "appliesTo": "LAB2/",
+      "type": "launch"
+    }
+  ]
+}

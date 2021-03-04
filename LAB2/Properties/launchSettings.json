@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LAB2": {
+      "commandName": "Project",
+      "commandLineArgs": "-h"
+    }
+  }
+}

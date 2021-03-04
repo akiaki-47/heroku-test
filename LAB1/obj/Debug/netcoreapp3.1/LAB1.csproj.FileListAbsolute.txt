@@ -1,0 +1,15 @@
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.exe
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.deps.json
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.json
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.dev.json
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.dll
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\LAB1.pdb
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.csprojAssemblyReference.cache
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfoInputs.cache
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfo.cs
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.CoreCompileInputs.cache
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.CopyComplete
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.dll
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.pdb
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\LAB1\obj\Debug\netcoreapp3.1\LAB1.genruntimeconfig.cache

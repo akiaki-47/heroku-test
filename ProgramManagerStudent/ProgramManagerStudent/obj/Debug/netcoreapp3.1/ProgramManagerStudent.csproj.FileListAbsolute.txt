@@ -1,0 +1,15 @@
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\bin\Debug\netcoreapp3.1\ProgramManagerStudent.exe
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\bin\Debug\netcoreapp3.1\ProgramManagerStudent.deps.json
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\bin\Debug\netcoreapp3.1\ProgramManagerStudent.runtimeconfig.json
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\bin\Debug\netcoreapp3.1\ProgramManagerStudent.runtimeconfig.dev.json
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\bin\Debug\netcoreapp3.1\ProgramManagerStudent.dll
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\bin\Debug\netcoreapp3.1\ProgramManagerStudent.pdb
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\obj\Debug\netcoreapp3.1\ProgramManagerStudent.csprojAssemblyReference.cache
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\obj\Debug\netcoreapp3.1\ProgramManagerStudent.AssemblyInfoInputs.cache
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\obj\Debug\netcoreapp3.1\ProgramManagerStudent.AssemblyInfo.cs
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\obj\Debug\netcoreapp3.1\ProgramManagerStudent.csproj.CoreCompileInputs.cache
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\obj\Debug\netcoreapp3.1\ProgramManagerStudent.csproj.CopyComplete
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\obj\Debug\netcoreapp3.1\ProgramManagerStudent.dll
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\obj\Debug\netcoreapp3.1\ProgramManagerStudent.pdb
+D:\FPT\CN5\PRN192-C#\SE1401-PRN292\ProgramManagerStudent\ProgramManagerStudent\obj\Debug\netcoreapp3.1\ProgramManagerStudent.genruntimeconfig.cache

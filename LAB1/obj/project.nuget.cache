@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKd0vbWD7E0EJoppIDPLtJzpimcXlmkUo5cGaUmjDkqyz7Ks/6QUK0huAU2gLqF4WWUKW0Ns3inK1LviqkHOpQ==",
+  "success": true,
+  "projectFilePath": "D:\\FPT\\CN5\\PRN192-C#\\SE1401-PRN292\\LAB1\\LAB1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

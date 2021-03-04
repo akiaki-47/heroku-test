@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProgramManagerStudent": {
+      "commandName": "Project",
+      "commandLineArgs": "FPT -s 500"
+    }
+  }
+}
